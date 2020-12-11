@@ -1,0 +1,22 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chubbybuns/Blackjack.git"
+  },
+  "author": "Julia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chubbybuns/Blackjack/issues"
+  },
+  "homepage": "https://github.com/Chubbybuns/Blackjack#readme",
+  "dependencies": {
+    "tinygradient": "^1.1.2"
+  }
+}
